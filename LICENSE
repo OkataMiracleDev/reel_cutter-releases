@@ -1,0 +1,188 @@
+ReelCutter End User License Agreement
+=====================================
+
+Copyright (c) 2026 Miracle Okata. All rights reserved.
+
+ReelCutter is proprietary software. It is not open source.
+
+This End User License Agreement ("Agreement") is between you (an individual, or the company
+or organization you act for) and Miracle Okata ("Licensor"). It covers the ReelCutter
+software: the installer, the program, the Python, JavaScript and other files it installs,
+updates, and the accompanying documentation (together, the "Software").
+
+By installing, copying or using the Software, you agree to this Agreement. If you do not
+agree, do not install or use the Software.
+
+
+1. Licensed, not sold
+
+The Software is licensed to you, not sold. Licensor and its licensors keep all rights,
+title and interest in the Software, including all copyrights, trade secrets and other
+intellectual property rights. The name "ReelCutter", its logo and icons belong to Licensor.
+Any right not expressly granted in this Agreement is reserved.
+
+
+2. What you may do
+
+Subject to this Agreement, Licensor grants you a personal, non-exclusive, non-transferable,
+non-sublicensable and revocable license to:
+
+  a) install and run the Software on computers you own or control; and
+  b) use it to create video content for your own personal or business purposes, including
+     content you publish or are paid for.
+
+You may make one backup copy of the installer for your own use.
+
+
+3. What you may not do
+
+Except where applicable law expressly allows it despite this restriction, you may not:
+
+  a) copy the Software, except as allowed in section 2;
+  b) distribute, publish, sell, resell, rent, lease, lend, sublicense or otherwise make the
+     Software, or any part of it, available to anyone else, including by uploading it to a
+     website, file-sharing service or app store;
+  c) offer the Software, or its functions, to others as a hosted, online or managed service;
+  d) modify, translate, adapt or create derivative works of the Software;
+  e) decompile, disassemble or reverse engineer the Software, or try to derive its source
+     code, algorithms or methods;
+  f) copy or reuse any of the Software's code in another product;
+  g) remove, change or hide any copyright, trademark or other notice in the Software;
+  h) get around any license key, activation, payment or usage limit the Software has now
+     or may have in a future version; or
+  i) use the Software in a way section 6 does not allow.
+
+Some of the Software is installed as human-readable script files (for example, .py files).
+They are provided only so that the Software can run on your computer. Being able to read
+them does not make them open source and does not give you any right beyond section 2.
+
+
+4. Price and future terms
+
+The Software is currently provided free of charge. Licensor may introduce fees,
+subscriptions, license keys or paid features in the future, and may require them for
+future versions or features. Licensor will announce such changes before they apply to you.
+Nothing in this section entitles you to future versions, features or support.
+
+
+5. Your content and your responsibilities
+
+Videos, scripts, captions, clips and other material you put into or create with the
+Software ("Your Content") belong to you or to their owners. Licensor claims no ownership
+of Your Content.
+
+You are solely responsible for Your Content and for how you use the Software. In
+particular, you are responsible for:
+
+  a) having the rights or permissions needed for any video you download, process, clip,
+     edit or publish with the Software;
+  b) complying with the terms of service of any website or platform you download from or
+     publish to (such as YouTube, Google Drive, TikTok, Instagram or X), and with the rules
+     of any clipping marketplace or program you take part in; and
+  c) the accounts and sign-ins you use with the Software, and any cookies file you create
+     for it.
+
+The Software's ability to download or process a video does not mean you are allowed to
+use that video.
+
+
+6. Acceptable use
+
+You may not use the Software, or any voice, picture, text or video it produces, to:
+
+  a) break any law, or infringe anyone's copyright, trademark, privacy, publicity or other
+     rights;
+  b) impersonate a real person, or make content that falsely presents a real person as
+     saying or doing something (a "deepfake"), without that person's consent;
+  c) deceive people, including by presenting AI-generated content as real where that is
+     misleading or where the law or a platform's rules require it to be labelled;
+  d) harass, threaten, defame or exploit anyone, or make sexual content involving minors;
+  e) spread illegal content, malware, spam or fraud; or
+  f) do anything the license of an included AI model forbids (see section 7).
+
+
+7. Third-party components and AI models
+
+The Software includes or downloads third-party components, such as Electron, Python
+libraries, FFmpeg, yt-dlp, the FilmCraft editor, fonts, and open AI models (including
+Whisper, MiniLM, Qwen3, Supertonic 3 and SDXS). Each is licensed by its own authors under
+its own license, not under this Agreement. Those licenses are listed in the
+THIRD_PARTY_NOTICES file distributed with the Software. Nothing in this Agreement limits
+the rights those licenses give you over those components.
+
+Some AI model licenses (for example, the OpenRAIL licenses of the Supertonic 3 voice model
+and the SDXS image model) include use restrictions. By using those features you agree to
+follow those restrictions.
+
+The Software may show links to third-party websites, such as clipping marketplaces.
+Licensor does not control or endorse those websites and is not responsible for them.
+
+
+8. Privacy and internet connections
+
+The Software processes your videos on your own computer. It does not send your videos,
+transcripts or clips to Licensor, and it does not collect usage analytics or telemetry.
+
+The Software connects to the internet only to:
+
+  a) check GitHub for updates and download them;
+  b) download its Python environment, FFmpeg and other tools during setup;
+  c) download AI models from Hugging Face the first time you use each one;
+  d) download videos and read public channel information from links you provide; and
+  e) open websites you choose, such as YouTube or a clipping marketplace, in its own
+     browser window.
+
+Those services have their own terms and privacy policies.
+
+
+9. Updates
+
+The Software checks for updates and offers to install them. Updates are part of the
+Software and are governed by this Agreement, unless an update comes with its own terms,
+which then apply instead.
+
+
+10. Termination
+
+This Agreement applies until it is terminated. It ends automatically if you break any of
+its terms. Licensor may also end it, or stop offering the Software, at any time. When it
+ends, you must stop using the Software and delete every copy you have. Sections 1, 3, 5,
+6, 7, 11, 12 and 13 survive termination. Your Content remains yours.
+
+
+11. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+TITLE OR NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE
+OR UNINTERRUPTED, THAT ITS RESULTS (INCLUDING CLIP SELECTION, TRANSCRIPTS, SCORES OR
+AI-GENERATED VOICES, PICTURES OR TEXT) WILL BE ACCURATE OR SUITABLE, OR THAT ANY CONTENT
+MADE WITH IT WILL PERFORM WELL OR EARN MONEY.
+
+
+12. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR WILL NOT BE LIABLE FOR ANY INDIRECT,
+INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS,
+REVENUE, ACCOUNTS OR GOODWILL, ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS AGREEMENT,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. LICENSOR'S TOTAL LIABILITY FOR ALL
+CLAIMS RELATED TO THE SOFTWARE WILL NOT EXCEED THE GREATER OF THE AMOUNT YOU PAID FOR THE
+SOFTWARE IN THE 12 MONTHS BEFORE THE CLAIM, OR USD 10.
+
+Some jurisdictions do not allow certain warranty exclusions or liability limits, so some of
+sections 11 and 12 may not apply to you. In that case they apply to the fullest extent
+your law allows.
+
+
+13. General
+
+This Agreement is the entire agreement between you and Licensor about the Software and
+replaces any earlier understanding about it. If any part of it is found unenforceable,
+that part will be enforced as far as possible and the rest stays in effect. Licensor not
+enforcing a term is not a waiver of it. You may not assign this Agreement; Licensor may.
+Licensor may update this Agreement; the version distributed with a release applies to that
+release and to your use of it after you install it.
+
+
+Questions about this Agreement or about licensing ReelCutter:
+https://github.com/OkataMiracleDev/reel_cutter-releases/issues
